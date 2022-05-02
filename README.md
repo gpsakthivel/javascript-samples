@@ -1,0 +1,1 @@
+This repository contains javascript mini projects.
